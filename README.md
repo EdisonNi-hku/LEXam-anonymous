@@ -9,8 +9,8 @@
 ### This repository provides code for evaluating LLMs on ***LEXam***. 
 
 ### Dataset
-- ***LEXam*** open questions: [dev set](https://anonymous.4open.science/r/LEXam-DB15/data/open_questions_dev.xlsx); [test set](https://anonymous.4open.science/r/LEXam-DB15/data/open_questions_test.xlsx)
-- ***LEXam*** multiple-choice questions: [test set](https://anonymous.4open.science/r/LEXam-DB15/data/MCQs_test.xlsx); [test set with perturbation](https://anonymous.4open.science/r/LEXam-DB15/data/MCQs_test_perturbation.xlsx)
+- ***LEXam*** open questions: [dev set](https://anonymous.4open.science/r/LEXam-anonymous-12EB/data/open_questions_dev.xlsx); [test set](https://anonymous.4open.science/r/LEXam-anonymous-12EB/data/open_questions_test.xlsx)
+- ***LEXam*** multiple-choice questions: [test set](https://anonymous.4open.science/r/LEXam-anonymous-12EB/data/MCQs_test.xlsx); [test set with perturbation](https://anonymous.4open.science/r/LEXam-anonymous-12EB/data/MCQs_test_perturbation.xlsx)
   
 ## 🚀🔄 Reproducing Paper results or Evaluating your own LLM
 
